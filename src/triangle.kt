@@ -25,5 +25,3 @@ fun main (){
 
 }
 
-//https://github.com/utshoahmed000-kiki/First-Kotlin-Program.git
-// utshoahmed000-kiki
